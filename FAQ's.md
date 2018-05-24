@@ -22,10 +22,9 @@ A: Once you've located a related search, just click on the particular one should
 
 **Q: Where is the source code?**
 
-A: You can find the app source code on GitHub: https://github.com/dnet/adsdroid to report/open a new issue and to check if it already existed
-
+A: You can find the app source code on GitHub: https://github.com/dnet/adsdroid
 
 **Q: I found a bug or issue, what should I do?**
 
-A: Open a new issue, describing the exact bug/issues so I can fix it
+A: Open a new issue on https://github.com/dnet/adsdroid describing the exact bug/issues so I can fix it. Kindly check if there is a similar issue regarding yours, to see the solution 
 
